@@ -48,12 +48,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thomaz-Castro&theme=tokyonight" />
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thomaz-Castro&theme=tokyonight" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thomaz-Castro&theme=tokyonight&exclude=html,css,tcl,jupyter%20notebook,scss,shell,dockerfile" />
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thomaz-Castro&theme=tokyonight&utcOffset=-3" />
+<img src="https://raw.githubusercontent.com/Thomaz-Castro/Thomaz-Castro/output/metrics.svg" alt="Métricas do GitHub" width="100%" />
 
 <br/><br/>
 
