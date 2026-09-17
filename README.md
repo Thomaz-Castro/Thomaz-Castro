@@ -9,6 +9,7 @@
 <a href="https://github.com/Thomaz-Castro?tab=followers"><img src="https://img.shields.io/github/followers/Thomaz-Castro?label=Seguidores&style=for-the-badge&color=38bdae&labelColor=0f2027&logo=github" /></a>
 <a href="https://github.com/Thomaz-Castro?tab=repositories"><img src="https://img.shields.io/badge/reposit%C3%B3rios-60%2B-38bdae?style=for-the-badge&labelColor=0f2027&logo=git&logoColor=white" /></a>
 <img src="https://komarev.com/ghpvc/?username=Thomaz-Castro&style=for-the-badge&color=38bdae&label=Visitas" />
+<a href="https://www.linkedin.com/in/thomazcastrodev/"><img src="https://img.shields.io/badge/LinkedIn-thomazcastrodev-38bdae?style=for-the-badge&labelColor=0f2027&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
@@ -17,6 +18,7 @@
 ## 👨‍💻 Sobre mim
 
 - 📍 São José dos Campos, SP - Brasil
+- 💼 [LinkedIn](https://www.linkedin.com/in/thomazcastrodev/)
 - 💼 Desenvolvedor full-stack: sistemas de gestão, apps financeiros e automações de mensageria com **Vue, TypeScript, PHP e Python**
 - 🤖 Interesse forte em **IA aplicada**: modelos preditivos, reconhecimento facial, RAG e agentes com **MCP**
 - 🧪 Curto montar labs didáticos para entender a tecnologia por dentro, tipo o [mcp-lab](https://github.com/Thomaz-Castro/mcp-lab)
