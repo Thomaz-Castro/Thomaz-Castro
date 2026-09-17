@@ -22,7 +22,7 @@ jobs:
           committer_branch: output
           filename: metrics.svg
           template: classic
-          base: header, repositories
+          base: header
           config_timezone: America/Sao_Paulo
           config_display: large
           config_octicon: yes
@@ -34,3 +34,9 @@ jobs:
           plugin_languages_ignored: tcl, jupyter notebook, css, scss, dockerfile, shell
           plugin_languages_colors: "0:38bdae, 1:f7c948, 2:ff6b6b, 3:a78bfa, 4:60a5fa, 5:fb923c"
           plugin_languages_details: percentage
+          extras_css: |
+            svg { background: #0d1117; color: #c9d1d9; }
+            h1, h2, h3 { color: #38bdae; }
+            .field svg { fill: #8b949e; }
+            .calendar .day { outline: 1px solid rgba(255,255,255,.04); }
+            :root { --color-calendar-graph-day-bg: #161b22; --color-calendar-graph-day-L1-bg: #0e4429; --color-calendar-graph-day-L2-bg: #006d32; --color-calendar-graph-day-L3-bg: #26a641; --color-calendar-graph-day-L4-bg: #39d353; }
