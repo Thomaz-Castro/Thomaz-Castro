@@ -17,7 +17,7 @@
 ## 👨‍💻 Sobre mim
 
 - 📍 São José dos Campos, SP - Brasil
-- 💼 Desenvolvedor na **Mais Capricho**, cuidando de sistemas internos (SGC, finance, bus) e automações de mensageria
+- 💼 Desenvolvedor full-stack: sistemas de gestão, apps financeiros e automações de mensageria com **Vue, TypeScript, PHP e Python**
 - 🤖 Interesse forte em **IA aplicada**: modelos preditivos, reconhecimento facial, RAG e agentes com **MCP**
 - 🧪 Curto montar labs didáticos para entender a tecnologia por dentro, tipo o [mcp-lab](https://github.com/Thomaz-Castro/mcp-lab)
 - ⚡ Fun fact: já fiz uma IA que resolve cubo mágico e um "C-RAM" com OpenCV + Arduino
@@ -48,18 +48,17 @@
 
 <div align="center">
 
-<a href="https://github.com/Thomaz-Castro">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Thomaz-Castro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae&icon_color=38bdae&include_all_commits=true&count_private=true&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thomaz-Castro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae&langs_count=8&locale=pt-br&hide=tcl,jupyter%20notebook" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thomaz-Castro&theme=tokyonight" width="100%" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thomaz-Castro&theme=tokyonight" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thomaz-Castro&theme=tokyonight" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thomaz-Castro&theme=tokyonight" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thomaz-Castro&theme=tokyonight&utcOffset=-3" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thomaz-Castro&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdae&fire=38bdae&currStreakLabel=38bdae&locale=pt_BR" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thomaz-Castro&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdae&line=38bdae&point=ffffff&area=true" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=Thomaz-Castro&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdae&fire=38bdae&currStreakLabel=38bdae&locale=pt_BR" />
 
 </div>
 
@@ -69,10 +68,13 @@
 
 <div align="center">
 
-<a href="https://github.com/Thomaz-Castro/mcp-lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomaz-Castro&repo=mcp-lab&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae&icon_color=38bdae" /></a>
-<a href="https://github.com/Thomaz-Castro/Cubik-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomaz-Castro&repo=Cubik-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae&icon_color=38bdae" /></a>
-<a href="https://github.com/Thomaz-Castro/HIP-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomaz-Castro&repo=HIP-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae&icon_color=38bdae" /></a>
-<a href="https://github.com/Thomaz-Castro/Happy-Food-Baby"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Thomaz-Castro&repo=Happy-Food-Baby&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdae&icon_color=38bdae" /></a>
+| Projeto | Descrição | Stack |
+|:--|:--|:--|
+| [**mcp-lab**](https://github.com/Thomaz-Castro/mcp-lab) | Laboratório ilustrado para aprender MCP: host, servidor e site que mostra cada mensagem JSON-RPC ao vivo | ![](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![](https://img.shields.io/badge/-Node-339933?logo=nodedotjs&logoColor=white) ![](https://img.shields.io/badge/-Ollama-000?logo=ollama&logoColor=white) |
+| [**Cubik-AI**](https://github.com/Thomaz-Castro/Cubik-AI) | Inteligência artificial capaz de resolver o cubo mágico | ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| [**HIP-AI**](https://github.com/Thomaz-Castro/HIP-AI) | Modelo que prediz a probabilidade de uma pessoa ter hipertensão | ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white) |
+| [**Happy-Food-Baby**](https://github.com/Thomaz-Castro/Happy-Food-Baby) | Aplicação com IA para deixar a hora da comida das crianças mais divertida | ![](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![](https://img.shields.io/badge/-IA-38bdae) |
+| [**Reconhecimento_facial**](https://github.com/Thomaz-Castro/Reconhecimento_facial) | Reconhecimento facial com OpenCV | ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) |
 
 </div>
 
